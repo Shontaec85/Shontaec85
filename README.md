@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shontaec85
 - 👀 I’m interested in ... Softwear Engineering 
 - 🌱 I’m currently learning ...Full stack Engineering
-- 💞️ I’m looking to collaborate on ... Engineering progjects
+- 💞️ I’m looking to collaborate on ... Engineering projects
 - 📫 How to reach me ...shontae.clark@mykenzie.snhu.edu
 
 <!---
